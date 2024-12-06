@@ -29,6 +29,6 @@ This repository contains a set of Jupyter notebooks for simulating and approxima
   - Estimates the price of a European call option using these numerical methods.
   - Compares the results to the analytical solution given by the Black-Scholes formula.
 
-### Other directories contain codes for other kind of methodsand studies of convergence rates, such as incriment-tamed EM or Richardson extrapolation.
+### Other directories contain codes for other kind of methodsand studies of convergence rates, such as incriment-tamed EM, Milstein or Richardson extrapolation.
 
 ---
