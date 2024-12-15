@@ -1,4 +1,4 @@
-# Monte Carlo Methods for SDEs
+# Monte Carlo Methods for SDEs - Option Pricing
 
 This repository contains a set of Jupyter notebooks for simulating and approximating Brownian Motion using various mathematical techniques, specifically targeting Monte Carlo methods and the Lévy-Ciesielski representation. The project includes two main parts:
 
